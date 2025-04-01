@@ -1,5 +1,5 @@
 - Hi, I’m @AllaFrancis
-- And I hate everyone
+- And I love kittens
 
 <!---
 AllaFrancis/AllaFrancis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
